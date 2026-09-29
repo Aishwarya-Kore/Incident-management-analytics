@@ -59,7 +59,7 @@ SQL was used to analyze:
 * Reassignment patterns
 * Category ranking
 * Priority-wise resolution performance
-* 
+  
 ## 📊 Excel Analysis
 Excel was used for PivotTable-based analysis including:
 * Incident volume by priority
@@ -91,7 +91,6 @@ The dashboard allows analysis of incidents by:
 * Assignment group
 * Time period
 * Reassignment pattern
-
 
 ## 💡 Business Value
 This analysis provides a structured view of IT incident operations and can help teams investigate:
