@@ -105,6 +105,13 @@ This analysis provides a structured view of IT incident operations and can help 
 
 The analysis can support further investigation into operational bottlenecks and service-management performance.
 
+## Key findings
+- **63.42% SLA compliance**: 9,115 of 24,918 incidents missed SLA.
+- **Median resolution 22.1 hours vs 178.2-hour average**: a small number of very long tickets skews the average.
+- **275 incidents (1.1%) were reopened.**
+- **One assignment group (Group 70) handles about 38% of incidents**; about 2K incidents have no group recorded.
+- Four categories account for nearly half of all incidents.
+  
 ## 👩‍💻 Skills Demonstrated
 
 **Data Analysis:** Python, Pandas, SQL, Excel, Power BI
